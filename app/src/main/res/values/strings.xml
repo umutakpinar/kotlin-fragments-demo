@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myfragments-demo</string>
+    <string name="firstFragmentTextViewText">First fragment! (1)</string>
+    <string name="secondFragmentTextViewText">Second fragment! (2)</string>
+    <string name="mainActivityButtonText1">Show FIrst Fragment</string>
+    <string name="mainActivityButtonText2">Show Second Fragment</string>
+</resources>
